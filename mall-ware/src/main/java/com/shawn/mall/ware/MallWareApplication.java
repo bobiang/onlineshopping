@@ -1,4 +1,4 @@
-package com.shawn.mall.order.ware;
+package com.shawn.mall.ware;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

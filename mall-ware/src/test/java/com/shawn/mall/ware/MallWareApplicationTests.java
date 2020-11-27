@@ -1,4 +1,4 @@
-package com.shawn.mall.order.ware;
+package com.shawn.mall.ware;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
